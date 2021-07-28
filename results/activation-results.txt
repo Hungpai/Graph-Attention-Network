@@ -1,0 +1,88 @@
+============================ elu ============================
+
+Epoch: 010, Train: 0.8857, Val: 0.6320, Test: 0.6560
+Epoch: 020, Train: 0.9429, Val: 0.7820, Test: 0.7730
+Epoch: 030, Train: 0.9571, Val: 0.7560, Test: 0.7540
+Epoch: 040, Train: 0.9571, Val: 0.7980, Test: 0.7830
+Epoch: 050, Train: 0.9500, Val: 0.7860, Test: 0.8020
+Epoch: 060, Train: 0.9714, Val: 0.7860, Test: 0.8000
+Epoch: 070, Train: 0.9643, Val: 0.7900, Test: 0.8130
+Epoch: 080, Train: 0.9643, Val: 0.7960, Test: 0.8150
+Epoch: 090, Train: 0.9714, Val: 0.7920, Test: 0.8280
+Epoch: 100, Train: 0.9857, Val: 0.7960, Test: 0.8170
+Epoch: 110, Train: 0.9786, Val: 0.7940, Test: 0.8290
+Epoch: 120, Train: 0.9857, Val: 0.7960, Test: 0.8240
+Epoch: 130, Train: 0.9857, Val: 0.7940, Test: 0.8100
+Epoch: 140, Train: 0.9857, Val: 0.7920, Test: 0.8260
+Epoch: 150, Train: 0.9857, Val: 0.7920, Test: 0.8230
+Epoch: 160, Train: 0.9929, Val: 0.7960, Test: 0.8250
+Epoch: 170, Train: 0.9857, Val: 0.7960, Test: 0.8150
+Epoch: 180, Train: 0.9857, Val: 0.7900, Test: 0.8160
+Epoch: 190, Train: 0.9929, Val: 0.8040, Test: 0.8150
+Epoch: 200, Train: 0.9929, Val: 0.7980, Test: 0.8170
+
+============================ relu ============================
+Epoch: 010, Train: 0.9071, Val: 0.6940, Test: 0.7070
+Epoch: 020, Train: 0.9286, Val: 0.7760, Test: 0.7660
+Epoch: 030, Train: 0.8500, Val: 0.6260, Test: 0.6280
+Epoch: 040, Train: 0.9571, Val: 0.7940, Test: 0.8040
+Epoch: 050, Train: 0.9357, Val: 0.7500, Test: 0.7470
+Epoch: 060, Train: 0.9714, Val: 0.7900, Test: 0.8180
+Epoch: 070, Train: 0.9500, Val: 0.8020, Test: 0.8100
+Epoch: 080, Train: 0.9643, Val: 0.8100, Test: 0.8220
+Epoch: 090, Train: 0.9500, Val: 0.7940, Test: 0.7990
+Epoch: 100, Train: 0.9857, Val: 0.8080, Test: 0.8240
+Epoch: 110, Train: 0.9929, Val: 0.8040, Test: 0.8320
+Epoch: 120, Train: 0.9786, Val: 0.8060, Test: 0.8190
+Epoch: 130, Train: 0.9929, Val: 0.8160, Test: 0.8420
+Epoch: 140, Train: 0.9929, Val: 0.8060, Test: 0.8270
+Epoch: 150, Train: 0.9929, Val: 0.8000, Test: 0.8320
+Epoch: 160, Train: 0.9929, Val: 0.8040, Test: 0.8350
+Epoch: 170, Train: 0.9929, Val: 0.8100, Test: 0.8360
+Epoch: 180, Train: 0.9929, Val: 0.8040, Test: 0.8360
+Epoch: 190, Train: 0.9857, Val: 0.8020, Test: 0.8260
+Epoch: 200, Train: 0.9929, Val: 0.8160, Test: 0.8390
+
+============================ sigmoid ============================
+Epoch: 010, Train: 0.1429, Val: 0.1560, Test: 0.1440
+Epoch: 020, Train: 0.4857, Val: 0.3620, Test: 0.3560
+Epoch: 030, Train: 0.1429, Val: 0.0580, Test: 0.0640
+Epoch: 040, Train: 0.1643, Val: 0.1580, Test: 0.1520
+Epoch: 050, Train: 0.3786, Val: 0.2600, Test: 0.2520
+Epoch: 060, Train: 0.3214, Val: 0.2220, Test: 0.2180
+Epoch: 070, Train: 0.2429, Val: 0.1600, Test: 0.1590
+Epoch: 080, Train: 0.3214, Val: 0.2800, Test: 0.2860
+Epoch: 090, Train: 0.2143, Val: 0.1900, Test: 0.1840
+Epoch: 100, Train: 0.2429, Val: 0.0760, Test: 0.1050
+Epoch: 110, Train: 0.1500, Val: 0.1160, Test: 0.1070
+Epoch: 120, Train: 0.1500, Val: 0.1220, Test: 0.1330
+Epoch: 130, Train: 0.1500, Val: 0.3160, Test: 0.3200
+Epoch: 140, Train: 0.1643, Val: 0.1180, Test: 0.1120
+Epoch: 150, Train: 0.2071, Val: 0.1080, Test: 0.1300
+Epoch: 160, Train: 0.2929, Val: 0.3120, Test: 0.2870
+Epoch: 170, Train: 0.1500, Val: 0.1140, Test: 0.1050
+Epoch: 180, Train: 0.2929, Val: 0.1640, Test: 0.1820
+Epoch: 190, Train: 0.1429, Val: 0.1140, Test: 0.1040
+Epoch: 200, Train: 0.1500, Val: 0.0720, Test: 0.0940
+
+============================ tanh ============================
+Epoch: 010, Train: 0.9286, Val: 0.7340, Test: 0.7560
+Epoch: 020, Train: 0.9214, Val: 0.7300, Test: 0.7630
+Epoch: 030, Train: 0.9357, Val: 0.7840, Test: 0.7860
+Epoch: 040, Train: 0.9571, Val: 0.7840, Test: 0.8070
+Epoch: 050, Train: 0.9714, Val: 0.8000, Test: 0.8120
+Epoch: 060, Train: 0.9714, Val: 0.7960, Test: 0.7980
+Epoch: 070, Train: 0.9714, Val: 0.8120, Test: 0.8160
+Epoch: 080, Train: 0.9786, Val: 0.7960, Test: 0.8110
+Epoch: 090, Train: 0.9786, Val: 0.8040, Test: 0.8080
+Epoch: 100, Train: 0.9786, Val: 0.8160, Test: 0.8230
+Epoch: 110, Train: 0.9786, Val: 0.8060, Test: 0.8180
+Epoch: 120, Train: 0.9857, Val: 0.8060, Test: 0.8160
+Epoch: 130, Train: 0.9857, Val: 0.8160, Test: 0.8270
+Epoch: 140, Train: 0.9929, Val: 0.8000, Test: 0.8160
+Epoch: 150, Train: 0.9929, Val: 0.8060, Test: 0.8170
+Epoch: 160, Train: 0.9857, Val: 0.8000, Test: 0.8210
+Epoch: 170, Train: 0.9857, Val: 0.8040, Test: 0.8220
+Epoch: 180, Train: 0.9857, Val: 0.8120, Test: 0.8190
+Epoch: 190, Train: 0.9857, Val: 0.8060, Test: 0.8220
+Epoch: 200, Train: 0.9857, Val: 0.8080, Test: 0.8210
